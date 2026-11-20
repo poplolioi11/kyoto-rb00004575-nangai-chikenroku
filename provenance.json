@@ -1,0 +1,343 @@
+{
+  "historical_author": "吉益南涯（猷），序述本山之光編錄，卷末署應齋高橋欽景抄",
+  "source_identity": "京都大學附屬圖書館富士川文庫 ナ/53，RB00004575",
+  "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00004575",
+  "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004575/manifest.json",
+  "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+  "dataset_version": "0.1.0",
+  "scan_count": 30,
+  "content_scan_count": 24,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p1",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "sha256": "c11d98ede1d9bd8efc4e4116684e15e5ec2fe40d1205be0f7eb21290f898c326",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p2",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "sha256": "6e80c6d802aaa3076162a3c91a2ba25c279fedf0dcb0d88bbaac670c0b96aace",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p3",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "sha256": "cc44c40ad4cf680554b5ac44321de503946763ea07b789ac6ee4eb1a32b1ed97",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p4",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "sha256": "2a29e2475512310d64b38ea4f0bbe4c294cf0a2718291fd56cf35b535c33467d",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p5",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "sha256": "589aa52b90b4126fcb4276af5fffc09fdbdda8b4228330231f5867f30299daab",
+      "content_role": "preface"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p6",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "sha256": "d046ef44165eb065ee55cecfecaa539707b8b7fa374c2d96003d1653e01df2a1",
+      "content_role": "preface"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p7",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "sha256": "2ad403563e98b796942fa97c96bf6e6242bb59d6b7a149701b333cb69d153c02",
+      "content_role": "editorial-introduction"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p8",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "sha256": "6da5fe7303a6ee03b172e723926576c98c5542949f54f4e5eb672a3b05ea2a65",
+      "content_role": "editorial-introduction"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p9",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "sha256": "46e3e7ccdc013831d1feb92bab425ed3a07a1931af3af355c9241b27da7447ef",
+      "content_role": "discussion-of-qi-blood-and-water"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p10",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "sha256": "24362cb72599370cba7d62237daa4b7c1e91dfc2fa1ba2e40a417309709c0f98",
+      "content_role": "discussion-of-qi-blood-and-water"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p11",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "sha256": "fd7c099ff0d1c97bf8727b09168ba8da81b8c57a3e6832b0c2c496b1617a13f3",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p12",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "sha256": "98b1bec5fb167bb19723fa01d52c2a16e7044d4f7c54a0c06fd9b769ec43a48d",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p13",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "sha256": "ef7501e59d3e57c7bbd90da408aee46416c090a94bc5ce5bb00d10fc0712586f",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p14",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "sha256": "724a1ddb814c12d1c6c47e6ab43141e06c49b7734f9ed7cece40f2b01aadafa8",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p15",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "sha256": "00c5ec425bfaf60dd3c65ab33295033df6f82b3166e3b3d0038525e075eb07f2",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p16",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "sha256": "dd8996e091a8ed15354764387e51de0090bdd5142bd2be26525ea197baf15950",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p17",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "sha256": "b3f218eadc594489a34bb572229cf3c841b48e9ec04d032ebe937f0995a71a32",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p18",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "sha256": "582bee106d2e3e0b51d5c296a983454f8590998a17343bee737152e86ac86783",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p19",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "sha256": "4f274d9c26c4fea25745b6fd70cd250e6269ce633ee1c41aaa3c845ac079fcba",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p20",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "sha256": "8e7a2db49fb03fec2b4f3e3e0cf64a064c48cb960eb3f820f2dea21755fca489",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p21",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "sha256": "2ea9de5eae61139ded40b65a09e4afbbc8efd57b148ac3565ba7f876712f961c",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p22",
+      "label": {
+        "ja": [
+          "22"
+        ]
+      },
+      "sha256": "892cc530312a1ed0f942167eed79453dcbc22e6903107fc40326407e0001f2c4",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p23",
+      "label": {
+        "ja": [
+          "23"
+        ]
+      },
+      "sha256": "407eda31ed842a9185f84386ad30951d648efde510c31973c523621624622927",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p24",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "sha256": "ea5a6ba02fd35945bc7f81a484f43614faf2f4569c6820f22694afab637a79a4",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p25",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "sha256": "9e9bb5cf40fd34e7b517f0f1843e2a5fc82bbefb6f49b6692abad5f56fe43240",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p26",
+      "label": {
+        "ja": [
+          "26"
+        ]
+      },
+      "sha256": "c468cfc7823636b80f47c2cbea00c322227eef20ff8cf918438b90f40d0ec62a",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p27",
+      "label": {
+        "ja": [
+          "27"
+        ]
+      },
+      "sha256": "796d4562b380bcc650b0d8a15f1977b8615a7e71d950cd4f6a21642806e92139",
+      "content_role": "clinical-case-narratives"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p28",
+      "label": {
+        "ja": [
+          "28"
+        ]
+      },
+      "sha256": "292c6c6d1f6c87c2cd2fcfe1a587faa055049c29893b1bccf4a3b75b7bdf7f8d",
+      "content_role": "copying-colophon"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p29",
+      "label": {
+        "ja": [
+          "29"
+        ]
+      },
+      "sha256": "83da3b6322139700694f0f65084d87e116f22e3c1dbe39e228e12f398442beaa",
+      "content_role": "endpaper-and-reversed-inscription"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00004575/canvas/p30",
+      "label": {
+        "ja": [
+          "30"
+        ]
+      },
+      "sha256": "acd5093b373c2473f09e7d5a30709301720a7e9dd3a3ed1e63a4f1caf27a5c98",
+      "content_role": "endpaper-and-reversed-inscription"
+    }
+  ]
+}
