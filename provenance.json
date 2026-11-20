@@ -4,10 +4,10 @@
   "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00004575",
   "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004575/manifest.json",
   "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 30,
   "content_scan_count": 24,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,

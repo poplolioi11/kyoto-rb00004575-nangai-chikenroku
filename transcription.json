@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004575/manifest.json",
     "manifest_sha256": "0777b8374cafbcb956931c5f54d18ca97486deb9389ecf3317aa3a5829481788",
     "record_id": "RB00004575",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "南涯先生治驗錄（1831 年抄記，京都大學 ナ/53） / Nangai sensei chikenroku [Clinical records of Yoshimasu Nangai]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -200,7 +200,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "preface",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -243,21 +243,21 @@
               "type": "seal",
               "location": "左頁欄上朱印",
               "text": "京都帝國大學圖書之印",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "red"
             },
             {
               "type": "seal",
               "location": "左頁欄上橢圓印",
               "text": "186428　大正7.3.31",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "black"
             },
             {
               "type": "seal",
               "location": "左頁右下朱印",
               "text": "富士川游寄贈",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "red"
             }
           ]
@@ -268,7 +268,10 @@
           "side": "left",
           "column": 2,
           "context": "□",
-          "candidates": [],
+          "candidates": [
+            "曩",
+            "歲"
+          ],
           "note": "部分筆畫不清，原圖字形待核。"
         },
         {
@@ -324,7 +327,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "preface",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -362,14 +365,14 @@
               "type": "printed-small-text",
               "location": "右頁第五欄「其」「嘗」間小字",
               "text": "所",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -430,7 +433,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "editorial-introduction",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -468,10 +471,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -480,7 +483,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "一此書所集、素百餘章、今册為三十餘首、從其同以其類"
+              "text": "一此書所集、素百餘章、今刪為三十餘首、從其同以其類"
             },
             {
               "text": "也"
@@ -498,7 +501,7 @@
               "text": "一此書有順逆迫閉等之目以示氣血水之用、迫者、蓋偪"
             },
             {
-              "text": "迫之謂如迫而后動之迫也、閉則閉之反、而開閉猶陰"
+              "text": "迫之謂如迫而后動之迫也、閉則開之反、而開閉猶陰"
             },
             {
               "text": "陽也、順逆者無異義也、此先生平日、所以示生徒者、李"
@@ -553,7 +556,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "editorial-introduction",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -582,10 +585,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "三",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -671,7 +674,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "discussion-of-qi-blood-and-water",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -712,14 +715,14 @@
               "type": "printed-small-text",
               "location": "右頁第二欄「之」「傳」間小字",
               "text": "不",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "四",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -779,7 +782,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "discussion-of-qi-blood-and-water",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -817,10 +820,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "五",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -877,7 +880,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -894,7 +897,7 @@
               "text": "浪華人某嘗患頭痛、一日大發、既痛且呃、語言不可出"
             },
             {
-              "text": "見抖擻狀、大率如線引傀儡、但手自打攖其首耳、其狀"
+              "text": "見抖擻狀、大率如線引傀儡、但手自打撐其首耳、其狀"
             },
             {
               "text": "大怪、蓋前人不知其頭痛也皆誤為狂矣、先生診曰、疾"
@@ -920,14 +923,14 @@
               "type": "printed-small-text",
               "location": "左頁第七欄「頭」「者」間右側小字",
               "text": "痛",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第八欄「惙」「疾」間右側小字",
               "text": "□",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             }
           ]
@@ -994,7 +997,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1032,10 +1035,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "七",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1079,7 +1082,7 @@
               "type": "printed-small-text",
               "location": "左頁第二欄上方小字",
               "text": "順恐煩之偽",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown"
             }
           ]
@@ -1103,7 +1106,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1196,7 +1199,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1234,10 +1237,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "九",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1305,7 +1308,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1343,10 +1346,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁書口",
               "text": "十",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1406,7 +1409,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1444,10 +1447,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁書口",
               "text": "十一",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1571,7 +1574,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1616,10 +1619,10 @@
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁書口",
               "text": "十二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1687,7 +1690,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1728,14 +1731,14 @@
               "type": "printed-small-text",
               "location": "右頁第7欄歸字旁小字",
               "text": "芍",
-              "column_anchor": 10,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁書口",
               "text": "十三",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1779,7 +1782,7 @@
               "type": "printed-small-text",
               "location": "左頁第3欄豈宜之間旁小字",
               "text": "非",
-              "column_anchor": 10,
+              "column_anchor": 3,
               "color": "unknown"
             }
           ]
@@ -1846,7 +1849,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1884,10 +1887,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁書口",
               "text": "十四",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1955,7 +1958,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1996,14 +1999,14 @@
               "type": "printed-small-text",
               "location": "右頁第1欄上方小字",
               "text": "當",
-              "column_anchor": 10,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁書口",
               "text": "十五",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2099,7 +2102,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2137,10 +2140,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁書口",
               "text": "十六",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2215,7 +2218,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2253,10 +2256,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "十七",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2300,7 +2303,7 @@
               "type": "printed-small-text",
               "location": "左頁第七欄上方小字",
               "text": "○或惡寒、",
-              "column_anchor": 10,
+              "column_anchor": 7,
               "color": "unknown"
             }
           ]
@@ -2339,7 +2342,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2377,10 +2380,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "十八",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2511,7 +2514,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2549,10 +2552,10 @@
           ],
           "extras": [
             {
-              "type": "copy-annotation",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "十九",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2612,7 +2615,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2650,10 +2653,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "二十",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2742,7 +2745,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2780,10 +2783,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "廿一",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2858,7 +2861,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "clinical-case-narratives",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2896,10 +2899,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下部葉記",
               "text": "廿二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2914,7 +2917,7 @@
               "text": "如虫行皮中、累〻相疊、氣力羸弱、每繫礙不能寢臥、服"
             },
             {
-              "text": "鷓胡菜湯、且緩水送下紫円、吐蛇數十頭、又進湯下數"
+              "text": "□胡菜湯、且緩水送下紫円、吐蛇數十頭、又進湯下數"
             },
             {
               "text": "百頭、經日而已、凡吐下蛇千余頭云"
@@ -2938,7 +2941,18 @@
           "extras": []
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□胡菜",
+          "candidates": [
+            "鷹",
+            "鷓"
+          ],
+          "note": "左上筆畫不明，保留讀者按圖覆核的選項。"
+        }
+      ],
       "observations": "右面：右頁第三、五欄同見近「櫛」形，第四欄「愈」後見重文樣竪墨；第五欄「劫」候讀。 左面：左頁第二欄「繫礙」及第三欄「鷓胡菜」候讀，藥名首字不從通行字擅改。病案中物名照原字，未作現代生物辨識。"
     },
     {
@@ -2956,7 +2970,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "copying-colophon",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2970,17 +2984,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "folio-mark",
               "location": "右頁內側下緣葉記",
               "text": "□三",
-              "column_anchor": 2,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "seal",
               "location": "右頁款署左下朱印",
               "text": "□□",
-              "column_anchor": 2,
+              "column_anchor": null,
               "color": "red"
             }
           ]

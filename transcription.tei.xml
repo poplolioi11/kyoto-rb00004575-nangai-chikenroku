@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -233,15 +233,15 @@
             <ab type="column" n="9" xml:id="f05-l-c09">
               <seg type="diplomatic-text">存于今者、獨為仲父之書耳、而徴之其書、則主</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f05-l-c09">
+            <ab type="page-feature" subtype="seal">
               <label>左頁欄上朱印</label>
               <seg type="diplomatic-text" rend="red">京都帝國大學圖書之印</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f05-l-c09">
+            <ab type="page-feature" subtype="seal">
               <label>左頁欄上橢圓印</label>
-              <seg type="diplomatic-text" rend="unknown">186428　大正7.3.31</seg>
+              <seg type="diplomatic-text" rend="black">186428　大正7.3.31</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f05-l-c09">
+            <ab type="page-feature" subtype="seal">
               <label>左頁右下朱印</label>
               <seg type="diplomatic-text" rend="red">富士川游寄贈</seg>
             </ab>
@@ -250,6 +250,8 @@
             <ab type="layout">右面：空頁。 左面：左頁內題後接無另題的序文。第二欄「叩以」下□字疑爰，篇中同用「叩以所不解」。 左面：左頁第三欄「張歛」第二字和第六欄「靳友人」首字存疑；第九欄「仲父」底本如此。 左面：陰影透見隔面反字，未重錄。</ab>
             <ab type="transcription-issue" n="left:2">
               <quote>□</quote>
+              <seg type="candidate">曩</seg>
+              <seg type="candidate">歲</seg>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
             </ab>
             <ab type="transcription-issue" n="left:None">
@@ -304,11 +306,11 @@
             <ab type="column" n="9" xml:id="f06-r-c09">
               <seg type="diplomatic-text">之光有功於古医術也先生之門不可無之光</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c05">
               <label>右頁第五欄「其」「嘗」間小字</label>
               <seg type="diplomatic-text" rend="unknown">所</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c09">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">一</seg>
             </ab>
@@ -373,14 +375,14 @@
             <ab type="column" n="10" xml:id="f07-r-c10">
               <seg type="diplomatic-text">其大槪也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">二</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f07-l-c01">
-              <seg type="diplomatic-text">一此書所集、素百餘章、今册為三十餘首、從其同以其類</seg>
+              <seg type="diplomatic-text">一此書所集、素百餘章、今刪為三十餘首、從其同以其類</seg>
             </ab>
             <ab type="column" n="2" xml:id="f07-l-c02">
               <seg type="diplomatic-text">也</seg>
@@ -398,7 +400,7 @@
               <seg type="diplomatic-text">一此書有順逆迫閉等之目以示氣血水之用、迫者、蓋偪</seg>
             </ab>
             <ab type="column" n="7" xml:id="f07-l-c07">
-              <seg type="diplomatic-text">迫之謂如迫而后動之迫也、閉則閉之反、而開閉猶陰</seg>
+              <seg type="diplomatic-text">迫之謂如迫而后動之迫也、閉則開之反、而開閉猶陰</seg>
             </ab>
             <ab type="column" n="8" xml:id="f07-l-c08">
               <seg type="diplomatic-text">陽也、順逆者無異義也、此先生平日、所以示生徒者、李</seg>
@@ -450,7 +452,7 @@
             <ab type="column" n="7" xml:id="f08-r-c07">
               <seg type="diplomatic-text">之法治、審在法言中、故今此不復贅</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c07">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">三</seg>
             </ab>
@@ -537,11 +539,11 @@
             <ab type="column" n="10" xml:id="f09-r-c10">
               <seg type="diplomatic-text">之為而何為乎、人身非鬼之可侵入、非魔之可生內也、</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-r-c10">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-r-c02">
               <label>右頁第二欄「之」「傳」間小字</label>
               <seg type="diplomatic-text" rend="unknown">不</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">四</seg>
             </ab>
@@ -615,7 +617,7 @@
             <ab type="column" n="10" xml:id="f10-r-c10">
               <seg type="diplomatic-text">發之、豁爾眼目、世医不為稱歎而又難議者、抑何心哉</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">五</seg>
             </ab>
@@ -666,7 +668,7 @@
               <seg type="diplomatic-text">浪華人某嘗患頭痛、一日大發、既痛且呃、語言不可出</seg>
             </ab>
             <ab type="column" n="3" xml:id="f11-l-c03">
-              <seg type="diplomatic-text">見抖擻狀、大率如線引傀儡、但手自打攖其首耳、其狀</seg>
+              <seg type="diplomatic-text">見抖擻狀、大率如線引傀儡、但手自打撐其首耳、其狀</seg>
             </ab>
             <ab type="column" n="4" xml:id="f11-l-c04">
               <seg type="diplomatic-text">大怪、蓋前人不知其頭痛也皆誤為狂矣、先生診曰、疾</seg>
@@ -686,11 +688,11 @@
             <ab type="column" n="9" xml:id="f11-l-c09">
               <seg type="diplomatic-text">失、先生使其服吳茱萸湯、其症十去八九、疾愈呃已、獨</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c07">
               <label>左頁第七欄「頭」「者」間右側小字</label>
               <seg type="diplomatic-text" rend="unknown">痛</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c08">
               <label>左頁第八欄「惙」「疾」間右側小字</label>
               <seg type="diplomatic-text" rend="unknown">□</seg>
             </ab>
@@ -756,7 +758,7 @@
             <ab type="column" n="10" xml:id="f12-r-c10">
               <seg type="diplomatic-text">婢加术附湯服〻後兩脚痿弱不能行步、頭痛發熱、蒸</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">七</seg>
             </ab>
@@ -792,7 +794,7 @@
             <ab type="column" n="10" xml:id="f12-l-c10">
               <seg type="diplomatic-text">生曰毒未全盡、而乃停服、復必再發、不可、後果發短氣</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c10">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c02">
               <label>左頁第二欄上方小字</label>
               <seg type="diplomatic-text" rend="unknown">順恐煩之偽</seg>
             </ab>
@@ -904,7 +906,7 @@
             <ab type="column" n="10" xml:id="f14-r-c10">
               <seg type="diplomatic-text">問曰此人其始也以調胃承氣湯、雖得利、不得其燥</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f14-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">九</seg>
             </ab>
@@ -982,7 +984,7 @@
             <ab type="column" n="10" xml:id="f15-r-c10">
               <seg type="diplomatic-text">先生曰、寒疾症、得之二三日、至四五日、醫最用心焉</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁書口</label>
               <seg type="diplomatic-text" rend="unknown">十</seg>
             </ab>
@@ -1056,7 +1058,7 @@
             <ab type="column" n="10" xml:id="f16-r-c10">
               <seg type="diplomatic-text">陰、蓋其氣逆者職此之由、蓋逆必閉、當先治其逆之者、</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f16-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁書口</label>
               <seg type="diplomatic-text" rend="unknown">十一</seg>
             </ab>
@@ -1170,7 +1172,7 @@
               <label>右頁第10欄十字右側小字</label>
               <seg type="diplomatic-text" rend="unknown">數</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁書口</label>
               <seg type="diplomatic-text" rend="unknown">十二</seg>
             </ab>
@@ -1248,11 +1250,11 @@
             <ab type="column" n="10" xml:id="f18-r-c10">
               <seg type="diplomatic-text">所有曰醫能治腹痛者、則皆就求治、前後更十醫而疾</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c10">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c07">
               <label>右頁第7欄歸字旁小字</label>
               <seg type="diplomatic-text" rend="unknown">芍</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁書口</label>
               <seg type="diplomatic-text" rend="unknown">十三</seg>
             </ab>
@@ -1288,7 +1290,7 @@
             <ab type="column" n="10" xml:id="f18-l-c10">
               <seg type="diplomatic-text">加賀侯臣某、便膿血既五年、來浪華使醫治、又二年不</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c10">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c03">
               <label>左頁第3欄豈宜之間旁小字</label>
               <seg type="diplomatic-text" rend="unknown">非</seg>
             </ab>
@@ -1354,7 +1356,7 @@
             <ab type="column" n="10" xml:id="f19-r-c10">
               <seg type="diplomatic-text">膿便即清</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁書口</label>
               <seg type="diplomatic-text" rend="unknown">十四</seg>
             </ab>
@@ -1432,11 +1434,11 @@
             <ab type="column" n="10" xml:id="f20-r-c10">
               <seg type="diplomatic-text">疾來京、見先生曰衆醫皆棄我死、我尚有命今也、疾愈</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c10">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c01">
               <label>右頁第1欄上方小字</label>
               <seg type="diplomatic-text" rend="unknown">當</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁書口</label>
               <seg type="diplomatic-text" rend="unknown">十五</seg>
             </ab>
@@ -1530,7 +1532,7 @@
             <ab type="column" n="10" xml:id="f21-r-c10">
               <seg type="diplomatic-text">慎之其始、達之其終、敢從否、其人受乃服大黃牡丹皮</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁書口</label>
               <seg type="diplomatic-text" rend="unknown">十六</seg>
             </ab>
@@ -1612,7 +1614,7 @@
             <ab type="column" n="10" xml:id="f22-r-c10">
               <seg type="diplomatic-text">中乾燥、固在茯苓澤瀉湯、而不在茯苓飲、其不燥渴</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">十七</seg>
             </ab>
@@ -1648,7 +1650,7 @@
             <ab type="column" n="10" xml:id="f22-l-c10">
               <seg type="diplomatic-text">根加桔梗湯、兼以梅肉散為佐、得湯稍差、先生歸京門</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c10">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c07">
               <label>左頁第七欄上方小字</label>
               <seg type="diplomatic-text" rend="unknown">○或惡寒、</seg>
             </ab>
@@ -1698,7 +1700,7 @@
             <ab type="column" n="10" xml:id="f23-r-c10">
               <seg type="diplomatic-text">外、唯推其原、而后方在吾所擇不亦信乎、</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">十八</seg>
             </ab>
@@ -1812,7 +1814,7 @@
             <ab type="column" n="10" xml:id="f24-r-c10">
               <seg type="diplomatic-text">浪華人某亦咽痛、朝至日中昃、漸且留口不能言、精神</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f24-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">十九</seg>
             </ab>
@@ -1886,7 +1888,7 @@
             <ab type="column" n="10" xml:id="f25-r-c10">
               <seg type="diplomatic-text">問曰黃土湯之為方、血症為主、此症焉雖無下血為</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">二十</seg>
             </ab>
@@ -1976,7 +1978,7 @@
             <ab type="column" n="10" xml:id="f26-r-c10">
               <seg type="diplomatic-text">上行者、此為八味丸症、不汗出而渴、而小便反多者</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">廿一</seg>
             </ab>
@@ -2058,7 +2060,7 @@
             <ab type="column" n="10" xml:id="f27-r-c10">
               <seg type="diplomatic-text">此人有血氣、有水氣、但表裏之分也、</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-r-c10">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下部葉記</label>
               <seg type="diplomatic-text" rend="unknown">廿二</seg>
             </ab>
@@ -2071,7 +2073,7 @@
               <seg type="diplomatic-text">如虫行皮中、累〻相疊、氣力羸弱、每繫礙不能寢臥、服</seg>
             </ab>
             <ab type="column" n="3" xml:id="f27-l-c03">
-              <seg type="diplomatic-text">鷓胡菜湯、且緩水送下紫円、吐蛇數十頭、又進湯下數</seg>
+              <seg type="diplomatic-text">□胡菜湯、且緩水送下紫円、吐蛇數十頭、又進湯下數</seg>
             </ab>
             <ab type="column" n="4" xml:id="f27-l-c04">
               <seg type="diplomatic-text">百頭、經日而已、凡吐下蛇千余頭云</seg>
@@ -2094,6 +2096,12 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：右頁第三、五欄同見近「櫛」形，第四欄「愈」後見重文樣竪墨；第五欄「劫」候讀。 左面：左頁第二欄「繫礙」及第三欄「鷓胡菜」候讀，藥名首字不從通行字擅改。病案中物名照原字，未作現代生物辨識。</ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>□胡菜</quote>
+              <seg type="candidate">鷹</seg>
+              <seg type="candidate">鷓</seg>
+              <note type="editorial">左上筆畫不明，保留讀者按圖覆核的選項。</note>
+            </ab>
           </div>
         </div>
         <pb n="28" facs="#f28" />
@@ -2105,11 +2113,11 @@
             <ab type="column" n="2" xml:id="f28-r-c02">
               <seg type="diplomatic-text">十日於應齋寒窓下寫之　應齋高橋欽景作</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-r-c02">
+            <ab type="page-feature" subtype="folio-mark">
               <label>右頁內側下緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">□三</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f28-r-c02">
+            <ab type="page-feature" subtype="seal">
               <label>右頁款署左下朱印</label>
               <seg type="diplomatic-text" rend="red">□□</seg>
             </ab>

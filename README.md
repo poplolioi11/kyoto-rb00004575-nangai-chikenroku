@@ -4,11 +4,11 @@
 
 Nangai sensei chikenroku records consultations and patient histories associated with Yoshimasu Nangai. The preface names Motoyama (本山之光) as compiler. Editorial notes and a discussion of qi, blood, and water precede individual accounts of symptoms, consultations, and courses of care. This Kyoto University Fujikawa Collection witness (ナ/53) carries an 1831 copying colophon. A work with the same title appears in a 1985 facsimile collection.
 
-## V0.1.0
+## V0.2.0
 
-30 幅全部編目。第 5–28 幅共 45 面有正文或抄記，保留序、凡例、個案、葉記及小字。第 29 幅末紙短段單列。本版記錄 AI 輔助初讀；正文、刊刻眉注、墨批及題記隨原圖定位，部分草書、藏印及殘字留有疑讀。
+30 幅全部編目。第 5–28 幅共 45 面有正文或抄記，保留序、凡例、個案、葉記及小字。第 29 幅末紙短段單列。比對未見初稿的本機 OCR 候選後，回圖裁定採用 38 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 30 scans are indexed. Scans 5–28 contain 45 written faces with the preface, editorial notes, cases and copying colophon. The short endpaper inscription in scan 29 is recorded separately. This edition preserves an AI-assisted initial reading, with printed marginal notes, handwritten annotations and inscriptions referenced to the source. Some readings in cursive text, seals and damaged areas remain uncertain.
+All 30 scans are indexed. Scans 5–28 contain 45 written faces with the preface, editorial notes, cases and copying colophon. The short endpaper inscription in scan 29 is recorded separately. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 38 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
